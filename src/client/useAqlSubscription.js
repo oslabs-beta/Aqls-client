@@ -5,7 +5,7 @@ import * as timesync from 'timesync';
 function useAqlSubscription(query, options, subscriptionResolver) {
   //synchronize time with timesync server
   const ts = timesync.create({
-    server: 'analytics/timesync',
+    server: '/aqlsanalytics/timesync',
     interval: 10000,
   });
 

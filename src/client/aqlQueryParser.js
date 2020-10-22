@@ -6,7 +6,7 @@ inject a correctly formatted AQL containing the resolver into the body of the qu
 
 // create timeSync object
 const ts = timesync.create({
-  server: '/analytics/timesync',
+  server: '/aqlsanalytics/timesync',
   interval: 10000,
 });
 
