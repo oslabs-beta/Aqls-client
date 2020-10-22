@@ -100,12 +100,14 @@ const handleClick = (chosenColor) => {
 
 - [ ] **Lastly, Connect with the Aqls Team!**
 
-aqlorgteam@gmail.com
+Visit our website: [Aqls.io](https://www.aqls.io/)
+
+Contact us: aqlorgteam@gmail.com
 
 Case Simmons: [Case's Github](https://github.com/casesimmons) and [Case's LinkedIn](https://www.linkedin.com/in/case-simmons/)
 
 Julie Pinchak: [Julie's Github](https://github.com/jpinchak) and [Julie's LinkedIn](https://www.linkedin.com/in/julie-pinchak/)
 
-Michael O'Halloran: [Michael's Github](https://github.com/LordRegis22) and [Michael's LinkedIn]()
+Michael O'Halloran: [Michael's Github](https://github.com/LordRegis22) and [Michael's LinkedIn](https://www.linkedin.com/)
 
 Rocio Infante: [Rocio's Github](https://github.com/Rocio-Infante) and [Rocio's LinkedIn](https://www.linkedin.com/in/rocio-infante/)
